@@ -19,10 +19,10 @@ Secure Arch takes a deliberate stance on prioritizing security over raw speed. W
 
 ## Is there a community?
 
-Yes a [discord](https://discord.com/invite/GTeVsV2vZd) and a[ Reddit.](https://www.reddit.com/r/secure_arch/s/HW96w6ZWvd)
+Yes a [discord](https://discord.com/invite/GTeVsV2vZd) and a [Reddit](https://www.reddit.com/r/secure_arch/s/HW96w6ZWvd)
 
 ## Contributions?
 
 We wholeheartedly welcome your contributions to our project! Your input is valuable to us, and we encourage you to actively participate in enhancing our work. Feel free to make a pull request on GitHub with your proposed changes. We believe in fostering collaboration and appreciate the diverse perspectives and skills that contributors bring to the table. Together, we can make our project even better. Thank you for being a part of our open-source community!
 
-img src="https://komarev.com/ghpvc/?username=secure-arch &color=45707a&style=flat-square" alt="GitHub page views">
+<img src="https://komarev.com/ghpvc/?username=secure-arch &color=45707a&style=flat-square" alt="GitHub page views">
